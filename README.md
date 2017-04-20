@@ -6,4 +6,4 @@ by [Sataya Boonchaleaw](https://yais,me) from [Bangkok University Center of Rese
 
 **The files are provided "as is" without warranty or support of any kind. The entire risk as to the quality and performance is with you.**
 
-You can find another windows binaries from [University of California](http://www.lfd.uci.edu/~gohlke/pythonlibs/) (It is not relate to this repository.)
+You can find another windows binaries from [University of California](http://www.lfd.uci.edu/~gohlke/pythonlibs/). It is not relate to this repository.
